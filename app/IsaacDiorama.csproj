@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <!-- WinExe = no console window. As a plain Exe, Windows opened a terminal alongside
+         the app, and that terminal's TITLE is its command line — which for a folder named
+         "Binding of Isaac VR Mod" contains "Binding of Isaac", so the flat-screen capture
+         latched onto it. The window finder no longer matches on titles either, but shipping
+         a stray console with a VR app was never right. Diagnostics now go to
+         diorama-log.txt instead of the console (see StartFileLog in Program.cs). -->
+    <OutputType>WinExe</OutputType>
+    <!-- Windows TFM: pulls in the Windows.Graphics.Capture (WGC) WinRT projections
+         used to capture the Isaac window for the menu/pause flat screen. -->
+    <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RootNamespace>IsaacDiorama</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="StereoKit" Version="0.3.*" />
+    <!-- D3D11 / DXGI managed interop for WGC (staging-copy the captured frame). -->
+    <PackageReference Include="Vortice.Direct3D11" Version="3.6.2" />
+  </ItemGroup>
+</Project>
