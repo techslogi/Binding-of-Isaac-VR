@@ -13,6 +13,7 @@ OpenXR headset should work (I also tested this on my PSVR2 through a PC adapter)
 
 > **Beta.** Playable start to finish, including major bosses. Expect a few
 > visual oddities. Bug reports very welcome — see [Reporting a bug](#reporting-a-bug).
+> MODS ARE CURRENTLY UNSUPPORTED. Consider running this vanilla to experience this mod without any issues.
 
 ---
 
