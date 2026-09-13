@@ -18,8 +18,9 @@ OpenXR headset should work (I also tested this on my PSVR2 through a PC adapter)
 
 ## What it looks like
 
-<!-- TODO: a GIF here does more than any paragraph. Grab one of: entering a room, a boss
-     fight, the passthrough toggle, and the life-size room. -->
+![An animated GIF image displaying Isaac in the 3d environment](https://raw.githubusercontent.com/techslogi/Binding-of-Isaac-VR/refs/heads/main/docs/1.gif)
+![An animated GIF image displaying Isaac in the 3d environment](https://raw.githubusercontent.com/techslogi/Binding-of-Isaac-VR/refs/heads/main/docs/2.gif)
+![An animated GIF image displaying Isaac in the 3d environment](https://raw.githubusercontent.com/techslogi/Binding-of-Isaac-VR/refs/heads/main/docs/3.gif)
 
 - The room as a **miniature**: sprites stand up on a floor you view from the front.
 - **Grab it.** Press a grip button to move the board, both grips to scale it.
