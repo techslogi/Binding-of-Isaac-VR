@@ -1,0 +1,9 @@
+<metadata>
+  <name>Isaac Diorama Exporter (Phase 2b)</name>
+  <directory>isaac-diorama-exporter</directory>
+  <id>isaac-diorama-exporter</id>
+  <description>Streams all room entities with sprite info (anm2 + animation + frame) over UDP for the VR diorama app. Requires --luadebug.</description>
+  <version>0.3.0</version>
+  <visibility>Hidden</visibility>
+  <tags/>
+</metadata>
