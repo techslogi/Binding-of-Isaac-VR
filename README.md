@@ -210,3 +210,5 @@ images, so blood, scorch marks and liquids appear as they happen.
 - **My incredible wife who consistently listens to all my ramblings about things like this and supports me always**
 
 This mod is dedicated to Dante, our lovely cat who sadly passed away suddenly during the development of this mod.
+
+![Photo of a lovely mixed breed cat, looking to its left against a window with a blue sky and clouds at the back](https://raw.githubusercontent.com/techslogi/Binding-of-Isaac-VR/refs/heads/main/docs/dante.png)
