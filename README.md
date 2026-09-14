@@ -45,6 +45,7 @@ OpenXR headset should work (I also tested this on my PSVR2 through a PC adapter)
 | Game | The Binding of Isaac: **Repentance+** Latest Public Version Available |
 | Script extender | **[REPENTOGON](https://repentogon.com/)** — required |
 | Headset | Any OpenXR headset. Developed on Quest 3 + Virtual Desktop |
+| Controller or Keyboard | This mod is not meant to be played via the headset controllers, but a normal one instead |
 | OS | Windows |
 
 ---
